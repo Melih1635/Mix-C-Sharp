@@ -1,0 +1,9 @@
+C:\Users\Pavilion\source\repos\2.Dönem 2.Ödev\2.Dönem 2.Ödev\bin\Debug\2.Dönem 2.Ödev.exe.config
+C:\Users\Pavilion\source\repos\2.Dönem 2.Ödev\2.Dönem 2.Ödev\bin\Debug\2.Dönem 2.Ödev.exe
+C:\Users\Pavilion\source\repos\2.Dönem 2.Ödev\2.Dönem 2.Ödev\bin\Debug\2.Dönem 2.Ödev.pdb
+C:\Users\Pavilion\source\repos\2.Dönem 2.Ödev\2.Dönem 2.Ödev\obj\Debug\2.Dönem 2.Ödev.csprojAssemblyReference.cache
+C:\Users\Pavilion\source\repos\2.Dönem 2.Ödev\2.Dönem 2.Ödev\obj\Debug\_2.Dönem_2.Ödev.Form1.resources
+C:\Users\Pavilion\source\repos\2.Dönem 2.Ödev\2.Dönem 2.Ödev\obj\Debug\_2.Dönem_2.Ödev.Properties.Resources.resources
+C:\Users\Pavilion\source\repos\2.Dönem 2.Ödev\2.Dönem 2.Ödev\obj\Debug\2.Dönem 2.Ödev.csproj.GenerateResource.cache
+C:\Users\Pavilion\source\repos\2.Dönem 2.Ödev\2.Dönem 2.Ödev\obj\Debug\2.Dönem 2.Ödev.exe
+C:\Users\Pavilion\source\repos\2.Dönem 2.Ödev\2.Dönem 2.Ödev\obj\Debug\2.Dönem 2.Ödev.pdb
